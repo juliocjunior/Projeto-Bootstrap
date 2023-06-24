@@ -40,3 +40,8 @@ footer p {
     height: 600px;
     object-fit: cover;
 }
+
+.carousel-inner img {
+    height: 814px;
+    object-fit: cover;
+}
